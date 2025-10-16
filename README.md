@@ -1,2 +1,3 @@
 # CMPUT-301-lab-06-aastatsai
-fall 2025 lab 6
+Name: Aasta Tsai
+CCID: mutsen
