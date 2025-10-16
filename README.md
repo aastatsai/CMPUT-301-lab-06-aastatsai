@@ -1,3 +1,3 @@
 # CMPUT-301-lab-06-aastatsai
-Name: Aasta Tsai
-CCID: mutsen
+- Name: Aasta Tsai
+- CCID: mutsen
